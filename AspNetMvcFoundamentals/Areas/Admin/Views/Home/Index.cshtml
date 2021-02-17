@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Admin area</h1>
+<h2>Index</h2>
+@Html.RouteLink("Go Home(not admin area)", new { controller = "Home", action = "Index", area = ""})
+<hr style="color: red"/>
