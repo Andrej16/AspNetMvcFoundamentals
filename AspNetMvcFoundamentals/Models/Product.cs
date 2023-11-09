@@ -46,6 +46,24 @@ namespace AspNetMvcFoundamentals.Models
                 Price = 250m,
                 Category = "Техника"
             });
+            products.Add(new Product()
+            {
+                ProductId = 3,
+                Name = "Карандаш",
+                Description = "Мобильный телефон с фотокамерой.",
+                Price = 250m,
+                Category = "Техника"
+            });
+            products.Add(new Product()
+            {
+                ProductId = 4,
+                Name = "Машина",
+                Description = "Мобильный телефон с фотокамерой.",
+                Price = 250m,
+                Category = "Техника"
+            });
+
         }
+
     }
 }

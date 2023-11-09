@@ -177,3 +177,276 @@ G:\OneDrive\Документы\Visual Studio 2015\Projects\AspNetMvcFoundamental
 G:\OneDrive\Документы\Visual Studio 2015\Projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.Rating.resources
 G:\OneDrive\Документы\Visual Studio 2015\Projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.GenerateResource.cache
 G:\OneDrive\Документы\Visual Studio 2015\Projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.DataAnnotations.resources
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.dll.config
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.pdb
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.exe
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.exe.config
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.rsp
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.exe
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.exe.config
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.rsp
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.Managed.Core.targets
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.AppContext.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Collections.Immutable.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Console.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Compression.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.FileSystem.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Pipes.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Reflection.Metadata.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.AccessControl.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Claims.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Principal.Windows.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.ValueTuple.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XmlDocument.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XPath.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.exe
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.exe.config
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.rsp
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\VBCSCompiler.exe
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\VBCSCompiler.exe.config
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Antlr3.Runtime.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.SqlServer.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.Web.Infrastructure.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Newtonsoft.Json.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Helpers.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Mvc.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Optimization.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Razor.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Deployment.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Razor.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\WebGrease.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.SqlServer.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Helpers.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Mvc.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Optimization.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Razor.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Deployment.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Razor.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Newtonsoft.Json.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Antlr3.Runtime.pdb
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Helpers.resources.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Mvc.resources.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Optimization.resources.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Razor.resources.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.resources.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.Deployment.resources.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.Razor.resources.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csprojAssemblyReference.cache
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.Initial.resources
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.Rating.resources
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.DataAnnotations.resources
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.GenerateResource.cache
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.CoreCompileInputs.cache
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.CopyComplete
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.dll
+d:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.pdb
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.dll.config
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.pdb
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.exe
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.exe.config
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.rsp
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.exe
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.exe.config
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.rsp
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CSharp.Core.targets
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.Managed.Core.targets
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.VisualBasic.Core.targets
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.AppContext.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Collections.Immutable.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Console.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Diagnostics.StackTrace.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Compression.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.FileSystem.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.FileSystem.Primitives.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Pipes.AccessControl.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Pipes.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Reflection.Metadata.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.AccessControl.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Claims.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Encoding.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Primitives.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Principal.Windows.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Text.Encoding.CodePages.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.ValueTuple.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.ReaderWriter.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XmlDocument.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XPath.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XPath.XDocument.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.exe
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.exe.config
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.rsp
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\VBCSCompiler.exe
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\VBCSCompiler.exe.config
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Antlr3.Runtime.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.SqlServer.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.Web.Infrastructure.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Newtonsoft.Json.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Helpers.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Mvc.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Optimization.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Razor.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Deployment.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Razor.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\WebGrease.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.SqlServer.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Helpers.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Mvc.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Optimization.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Razor.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Deployment.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Razor.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Newtonsoft.Json.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Antlr3.Runtime.pdb
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Helpers.resources.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Mvc.resources.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Optimization.resources.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Razor.resources.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.resources.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.Deployment.resources.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.Razor.resources.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csprojAssemblyReference.cache
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.Initial.resources
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.Rating.resources
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.DataAnnotations.resources
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.GenerateResource.cache
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.CoreCompileInputs.cache
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.CopyComplete
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.dll
+g:\OneDrive\.NET Framework projects\AspNetMvcFoundamentals\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.pdb
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.dll.config
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\AspNetMvcFoundamentals.pdb
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.exe
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.exe.config
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csc.rsp
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.exe
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.exe.config
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\csi.rsp
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.AppContext.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Console.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.IO.Pipes.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.AccessControl.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Claims.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.exe
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.exe.config
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\vbc.rsp
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Antlr3.Runtime.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Newtonsoft.Json.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Helpers.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Mvc.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Optimization.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Razor.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\WebGrease.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Helpers.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Mvc.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Optimization.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.Razor.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Newtonsoft.Json.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Antlr3.Runtime.pdb
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Helpers.resources.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Mvc.resources.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Optimization.resources.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.Razor.resources.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.resources.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.AssemblyReference.cache
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.Initial.resources
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.Rating.resources
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.Migrations.DataAnnotations.resources
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.GenerateResource.cache
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.csproj.CopyComplete
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.dll
+D:\OneDrive\Library\Web\ASP.NET MVC Fundamentals Student\Practice\AspNetMvcFoundamentals\AspNetMvcFoundamentals\obj\Debug\AspNetMvcFoundamentals.pdb

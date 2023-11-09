@@ -1,0 +1,11 @@
+﻿@model IEnumerable<AspNetMvcFoundamentals.Models.Product>
+
+@foreach (AspNetMvcFoundamentals.Models.Product p in Model)
+{
+<tr>
+    <td>@Html.DisplayFor(m => p.ProductId)</td>
+    <td>@Html.DisplayFor(m => p.Name)</td>
+    <td>@Html.DisplayFor(m => p.Category)</td>
+    <td>@Html.DisplayFor(m => p.Price)</td>
+</tr>
+}

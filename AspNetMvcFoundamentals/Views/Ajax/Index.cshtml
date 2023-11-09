@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var options = new AjaxOptions()
+    {
+        UpdateTargetId = "tabledata",
+        Url = Url.Action("FindById")
+    };
+
+}
+
+<h2>Products</h2>
+
+@using (Ajax.BeginForm(options))
+{
+    <table cellpadding="4">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+
+        <tbody id="tabledata">
+            @Html.Action("FindById", new { id = Model })
+        </tbody>
+
+    </table>
+
+    <p>
+        Product: @Html.DropDownList("id", new SelectList(ViewBag.Products, "ProductId", "Name"))
+        <input type="submit" value="Submit" />
+    </p>
+}
+@section scripts
+{
+    @*Ненавязивый JavaScript для выполнения запроса на сервер без полного обновления страницы*@
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+}
